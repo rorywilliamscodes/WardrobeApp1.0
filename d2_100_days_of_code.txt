@@ -1,0 +1,5 @@
+This software will allow a set amount of tops and bottoms (articles of clothing) to be scrolled through in order to pick out the clothing to wear. It will also assign an outfit at random. 
+The user will be able to scroll through at will, or select a random outfit. 
+
+Tutorial from "The Come Up off Youtube. 
+https://www.youtube.com/watch?v=IrZ58M8BgcA
